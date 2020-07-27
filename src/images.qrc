@@ -1,0 +1,59 @@
+<RCC>
+  <qresource prefix="login">
+    <file>images/login/checkbox_checked.png</file>
+    <file>images/login/checkbox_checked_hover.png</file>
+    <file>images/login/checkbox_checked_pressed.png</file>
+    <file>images/login/login.png</file>
+    <file>images/login/checkbox_unchecked.png</file>
+    <file>images/login/checkbox_unchecked_hover.png</file>
+    <file>images/login/lwnk.png</file>
+    <file>images/login/checkbox_unchecked_pressed.png</file>
+    <file>images/login/down_arrow.png</file>
+    <file>images/login/down_arrow_disabled.png</file>
+    <file>images/login/frame.png</file>
+    <file>images/login/pagefold.png</file>
+    <file>images/login/pushbutton.png</file>
+    <file>images/login/pushbutton_hover.png</file>
+    <file>images/login/pushbutton_pressed.png</file>
+    <file>images/login/radiobutton_checked.png</file>
+    <file>images/login/radiobutton_checked_hover.png</file>
+    <file>images/login/radiobutton_checked_pressed.png</file>
+    <file>images/login/radiobutton_unchecked.png</file>
+    <file>images/login/radiobutton_unchecked_hover.png</file>
+    <file>images/login/radiobutton_unchecked_pressed.png</file>
+    <file>images/login/sizegrip.png</file>
+    <file>images/login/spindown.png</file>
+    <file>images/login/spindown_hover.png</file>
+    <file>images/login/spindown_off.png</file>
+    <file>images/login/spindown_pressed.png</file>
+    <file>images/login/spinup.png</file>
+    <file>images/login/spinup_hover.png</file>
+    <file>images/login/spinup_off.png</file>
+    <file>images/login/spinup_pressed.png</file>
+    <file>images/login/up_arrow.png</file>
+    <file>images/login/up_arrow_disabled.png</file>
+  </qresource>
+  <qresource prefix="treewidget">
+    <file>images/treewidget/attendance.png</file>
+    <file>images/treewidget/change_password.png</file>
+    <file>images/treewidget/employee.png</file>
+    <file>images/treewidget/excel.png</file>
+    <file>images/treewidget/exit_system.png</file>
+    <file>images/treewidget/logout.png</file>
+    <file>images/treewidget/management.png</file>
+    <file>images/treewidget/form.png</file>
+    <file>images/treewidget/other.png</file>
+    <file>images/treewidget/message.png</file>
+    <file>images/treewidget/message_record.png</file>
+    <file>images/treewidget/modify.png</file>
+    <file>images/treewidget/authorization.png</file>
+    <file>images/treewidget/new_message.png</file>
+    <file>images/treewidget/operation_record.png</file>
+    <file>images/treewidget/salary.png</file>
+    <file>images/treewidget/system.png</file>
+  </qresource>
+  <qresource prefix="mainwindow">
+    <file>images/mainwindow/background.png</file>
+    <file>images/mainwindow/money-bag.png</file>
+  </qresource>
+</RCC>
